@@ -682,6 +682,18 @@ section.contact-me {
     text-align: center;
 }
 
+
+a.download-resume {
+    background-color: red;
+    padding: 5px 10px 5px 10px;
+}
+
+a.download-resume:hover {
+    background-color: #b25300;
+    padding: 5px 10px 5px 10px;
+    color: #ffe800 !important;
+}
+
 @media screen and (max-width: 1680px) {
     .menu {
         left: 5%;
@@ -813,4 +825,5 @@ section.contact-me {
     .isotope-toolbar {
         margin-bottom: 20px;
     }
+
 }
