@@ -1,6 +1,6 @@
 👋 Hi, I’m Laxman Naik
-🚀 Web Developer | WordPress & Shopify Specialist | Digital Marketing Expert
-With 9.5 years of experience in web development and digital solutions, I specialize in building, customizing, and optimizing websites that deliver performance and results.
+🚀 Web Developer | WordPress & Shopify Specialist | MERN stack | UI/UX Webflow | Digital Marketing Expert
+With 10 years of experience in web development and digital solutions, I specialize in building, customizing, and optimizing websites that deliver performance and results.
 
 💡 About Me
 🔧 Skilled in WordPress (Theme & Plugin Development/Customization)
